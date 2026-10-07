@@ -7,9 +7,6 @@
   <li>Dashboards</li>
   <li>Data Analytics</li>
   <li>Budget & Forecasting</li>
-</ul>
-
-<ul>
   <li>Contract Review</li>
   <li>Conflict Management</li>
   <li>Dispute Resolution</li>
