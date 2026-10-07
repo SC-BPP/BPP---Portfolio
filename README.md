@@ -2,15 +2,18 @@
 
 ## My Skills
 
-<p align="left">
-  • Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  • Contract Review<br>
-  • Dashboards &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  • Conflict Management<br>
-  • Data Analytics &nbsp;&nbsp;&nbsp;
-  • Dispute Resolution<br>
-  • Budget & Forecasting
-</p>
+<ul style="float:left; margin-right:50px;">
+  <li>Excel</li>
+  <li>Dashboards</li>
+  <li>Data Analytics</li>
+  <li>Budget & Forecasting</li>
+</ul>
+
+<ul>
+  <li>Contract Review</li>
+  <li>Conflict Management</li>
+  <li>Dispute Resolution</li>
+</ul>
 
 ## Projects
 
